@@ -5,7 +5,7 @@ jquery live search plugin
 
 a photo more than one throusand sentence.
 
-![](screenshot.png)
+![](https://raw.githubusercontent.com/hhuai/mini-autocomplete/master/screenshoot.png)
 
 
 ### settings
